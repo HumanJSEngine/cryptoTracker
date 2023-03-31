@@ -4,7 +4,6 @@ import Coins from './routes/Coins';
 
 function Root() {
 
-
     return (
         <>
             <Reset />
